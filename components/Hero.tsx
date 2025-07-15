@@ -101,6 +101,14 @@ export function Hero() {
               <Github className="w-5 h-5" />
               GitHub
             </a>
+            <a
+              href="/Abhay_Tambe_Resume.pdf"
+              download
+              className="px-8 py-4 border-2 border-primary-600 dark:border-primary-400 text-primary-600 dark:text-primary-400 hover:bg-primary-600 hover:text-white dark:hover:bg-primary-400 dark:hover:text-dark-900 font-semibold rounded-xl transition-all duration-300 flex items-center gap-3"
+            >
+              <Download className="w-5 h-5" />
+              Download CV
+            </a>
           </motion.div>
 
           <motion.div
