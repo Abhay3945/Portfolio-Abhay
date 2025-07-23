@@ -135,8 +135,8 @@ export function Footer() {
             >
               <h4 className="font-semibold text-white mb-4">Get In Touch</h4>
               <div className="space-y-2 text-gray-400 text-sm">
-                <p>📧 abhay.tambe@example.com</p>
-                <p>📱 +91 98765 43210</p>
+                <p>📧 abhay.tambe.dev@gmail.com</p>
+                <p>📱 +91 8999354637</p>
                 <p>📍 Pune, Maharashtra, India</p>
                 <p className="pt-2">
                   <span className="inline-flex items-center gap-1 text-green-400">
